@@ -1,2 +1,5 @@
-# urbanweather
-a web about Urban weather of China
+# 城市天气
+* 一个简单的用于查看中国各大城市天气的网页
+* 基于vue-cli2，下载后请先`npm install`所需依赖
+
+
